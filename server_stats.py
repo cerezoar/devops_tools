@@ -2,6 +2,9 @@
 # dependencies = ["psutil"]
 # ///
 
+# To run this script, you will be needed `uv` and `python` to be installed in the server. Visit https://docs.astral.sh/uv/getting-started/installation/ for the installation guide for uv.
+# After installation, run the command `uv run <filename>` 
+
 import psutil
 import platform
 from datetime import datetime
