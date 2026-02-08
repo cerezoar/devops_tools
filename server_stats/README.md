@@ -12,5 +12,5 @@ This is a simple python script to check the basic performance statistics of a pc
 
 3. Run the code using the command `uv run <filename>`. This will automatically download the dependencies and run the code.
 
-This project is part of ![roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects. 
+This project is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects. 
 
